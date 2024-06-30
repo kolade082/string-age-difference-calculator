@@ -1,4 +1,4 @@
-# Age Difference Calculator
+# String Age Difference Calculator
 
 This project calculates the age difference between two users based on their provided strings, fetching data from the Random User API. The application is built with PHP and uses a MySQL database.
 
@@ -13,7 +13,7 @@ This project calculates the age difference between two users based on their prov
 
 ```sh
 git clone https://github.com/kolade082/string-age-difference-calculator.git
-cd agedifferencecalculator
+cd string-age-difference-calculator
 ```
 
 Set Up the Environment
